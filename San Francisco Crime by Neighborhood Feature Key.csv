@@ -1,0 +1,153 @@
+Feature,Description
+VC03,Total households
+VC04,Total households - Family households (families)
+VC05,Total households - Family households (families) - With own children of the householder under 18 years
+VC06,Total households - Family households (families) - Married-couple family
+VC07,Total households - Family households (families) - Married-couple family - With own children of the householder under 18 years
+VC08,"Total households - Family households (families) - Male householder, no wife present, family"
+VC09,"Total households - Family households (families) - Male householder, no wife present, family - With own children of the householder under 18 years"
+VC10,"Total households - Family households (families) - Female householder, no husband present, family"
+VC11,"Total households - Family households (families) - Female householder, no husband present, family - With own children of the householder under 18 years"
+VC12,Total households - Nonfamily households
+VC13,Total households - Nonfamily households - Householder living alone
+VC14,Total households - Nonfamily households - Householder living alone - 65 years and over
+VC17,Households with one or more people under 18 years
+VC18,Households with one or more people 65 years and over
+VC21,Average household size
+VC22,Average family size
+VC26,Population in households
+VC27,Population in households - Householder
+VC28,Population in households - Spouse
+VC29,Population in households - Child
+VC30,Population in households - Other relatives
+VC31,Population in households - Nonrelatives
+VC32,Population in households - Nonrelatives - Unmarried partner
+VC36,Males 15 years and over
+VC37,Males 15 years and over - Never married
+VC38,"Males 15 years and over - Now married, except separated"
+VC39,Males 15 years and over - Separated
+VC40,Males 15 years and over - Widowed
+VC41,Males 15 years and over - Divorced
+VC43,Females 15 years and over
+VC44,Females 15 years and over - Never married
+VC45,"Females 15 years and over - Now married, except separated"
+VC46,Females 15 years and over - Separated
+VC47,Females 15 years and over - Widowed
+VC48,Females 15 years and over - Divorced
+VC52, Number of women 15 to 50 years old who had a birth in the past 12 months
+VC53," Number of women 15 to 50 years old who had a birth in the past 12 months - Unmarried women (widowed, divorced, and never married)"
+VC54," Number of women 15 to 50 years old who had a birth in the past 12 months - Unmarried women (widowed, divorced, and never married) - Per 1,000 unmarried women"
+VC55," Number of women 15 to 50 years old who had a birth in the past 12 months - Per 1,000 women 15 to 50 years old"
+VC56," Number of women 15 to 50 years old who had a birth in the past 12 months - Per 1,000 women 15 to 19 years old"
+VC57," Number of women 15 to 50 years old who had a birth in the past 12 months - Per 1,000 women 20 to 34 years old"
+VC58," Number of women 15 to 50 years old who had a birth in the past 12 months - Per 1,000 women 35 to 50 years old"
+VC62, Number of grandparents living with own grandchildren under 18 years
+VC63, Number of grandparents living with own grandchildren under 18 years - Grandparents responsible for grandchildren
+VC65, Number of grandparents living with own grandchildren under 18 years - Years responsible for grandchildren - Less than 1 year
+VC66, Number of grandparents living with own grandchildren under 18 years - Years responsible for grandchildren - 1 or 2 years
+VC67, Number of grandparents living with own grandchildren under 18 years - Years responsible for grandchildren - 3 or 4 years
+VC68, Number of grandparents living with own grandchildren under 18 years - Years responsible for grandchildren - 5 or more years
+VC70, Number of grandparents responsible for own grandchildren under 18 years
+VC71, Number of grandparents responsible for own grandchildren under 18 years - Who are female
+VC72, Number of grandparents responsible for own grandchildren under 18 years - Who are married
+VC76, Population 3 years and over enrolled in school
+VC77," Population 3 years and over enrolled in school - Nursery school, preschool"
+VC78, Population 3 years and over enrolled in school - Kindergarten
+VC79, Population 3 years and over enrolled in school - Elementary school (grades 1-8)
+VC80, Population 3 years and over enrolled in school - High school (grades 9-12)
+VC81, Population 3 years and over enrolled in school - College or graduate school
+VC85, Population 25 years and over
+VC86, Population 25 years and over - Less than 9th grade
+VC87," Population 25 years and over - 9th to 12th grade, no diploma"
+VC88, Population 25 years and over - High school graduate (includes equivalency)
+VC89," Population 25 years and over - Some college, no degree"
+VC90, Population 25 years and over - Associate's degree
+VC91, Population 25 years and over - Bachelor's degree
+VC92, Population 25 years and over - Graduate or professional degree
+VC95, Percent high school graduate or higher
+VC96, Percent bachelor's degree or higher
+VC100,VETERAN STATUS - Civilian population 18 years and over
+VC101,VETERAN STATUS - Civilian population 18 years and over - Civilian veterans
+VC105,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population
+VC106,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population - With a disability
+VC108,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years
+VC109,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years - With a disability
+VC111,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years
+VC112,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years - With a disability
+VC114,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over
+VC115,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over - With a disability
+VC119,RESIDENCE 1 YEAR AGO - Population 1 year and over
+VC120,RESIDENCE 1 YEAR AGO - Population 1 year and over - Same house
+VC121,RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S.
+VC122,RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Same county
+VC123,RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county
+VC124,RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county - Same state
+VC125,RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county - Different state
+VC126,RESIDENCE 1 YEAR AGO - Population 1 year and over - Abroad
+VC130,PLACE OF BIRTH - Total population
+VC131,PLACE OF BIRTH - Total population - Native
+VC132,PLACE OF BIRTH - Total population - Native - Born in United States
+VC133,PLACE OF BIRTH - Total population - Native - Born in United States - State of residence
+VC134,PLACE OF BIRTH - Total population - Native - Born in United States - Different state
+VC135,"PLACE OF BIRTH - Total population - Native - Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)"
+VC136,PLACE OF BIRTH - Total population - Foreign born
+VC140,U.S. CITIZENSHIP STATUS - Foreign-born population
+VC141,U.S. CITIZENSHIP STATUS - Foreign-born population - Naturalized U.S. citizen
+VC142,U.S. CITIZENSHIP STATUS - Foreign-born population - Not a U.S. citizen
+VC146,YEAR OF ENTRY - Population born outside the United States
+VC149,YEAR OF ENTRY - Native
+VC150,YEAR OF ENTRY - Native - Entered 2010 or later
+VC151,YEAR OF ENTRY - Native - Entered before 2010
+VC154,YEAR OF ENTRY - Foreign born
+VC155,YEAR OF ENTRY - Foreign born - Entered 2010 or later
+VC156,YEAR OF ENTRY - Foreign born - Entered before 2010
+VC160,"WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea"
+VC161,"WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Europe"
+VC162,"WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Asia"
+VC163,"WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Africa"
+VC164,"WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Oceania"
+VC165,"WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Latin America"
+VC166,"WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Northern America"
+VC170,LANGUAGE SPOKEN AT HOME - Population 5 years and over
+VC171,LANGUAGE SPOKEN AT HOME - Population 5 years and over - English only
+VC172,LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English
+VC173,"LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Speak English less than ""very well"""
+VC174,LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish
+VC175,"LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish - Speak English less than ""very well"""
+VC176,LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages
+VC177,"LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages - Speak English less than ""very well"""
+VC178,LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages
+VC179,"LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages - Speak English less than ""very well"""
+VC180,LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages
+VC181,"LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages - Speak English less than ""very well"""
+VC185,ANCESTRY - Total population
+VC186,ANCESTRY - Total population - American
+VC187,ANCESTRY - Total population - Arab
+VC188,ANCESTRY - Total population - Czech
+VC189,ANCESTRY - Total population - Danish
+VC190,ANCESTRY - Total population - Dutch
+VC191,ANCESTRY - Total population - English
+VC192,ANCESTRY - Total population - French (except Basque)
+VC193,ANCESTRY - Total population - French Canadian
+VC194,ANCESTRY - Total population - German
+VC195,ANCESTRY - Total population - Greek
+VC196,ANCESTRY - Total population - Hungarian
+VC197,ANCESTRY - Total population - Irish
+VC198,ANCESTRY - Total population - Italian
+VC199,ANCESTRY - Total population - Lithuanian
+VC200,ANCESTRY - Total population - Norwegian
+VC201,ANCESTRY - Total population - Polish
+VC202,ANCESTRY - Total population - Portuguese
+VC203,ANCESTRY - Total population - Russian
+VC204,ANCESTRY - Total population - Scotch-Irish
+VC205,ANCESTRY - Total population - Scottish
+VC206,ANCESTRY - Total population - Slovak
+VC207,ANCESTRY - Total population - Subsaharan African
+VC208,ANCESTRY - Total population - Swedish
+VC209,ANCESTRY - Total population - Swiss
+VC210,ANCESTRY - Total population - Ukrainian
+VC211,ANCESTRY - Total population - Welsh
+VC212,ANCESTRY - Total population - West Indian (excluding Hispanic origin groups)
+VC216,COMPUTERS AND INTERNET USE - Total households
+VC217,COMPUTERS AND INTERNET USE - Total households - With a computer
+VC218,COMPUTERS AND INTERNET USE - Total households - With a broadband Internet subscription
